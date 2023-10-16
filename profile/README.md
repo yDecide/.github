@@ -1,4 +1,6 @@
-# yDecide 👋
+<p align="center">
+  <a href="https://ydecide.app" target="_blank"><img src="https://github.com/yDecide/.github/assets/148155226/4d98f45f-d538-43dc-8b99-fab3ec115a85" alt="yDecide - Logo"/></a>
+</p>
 
 ## Current Status
 **yDecide** is actively under development. 
