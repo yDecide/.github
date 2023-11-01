@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ydecide.app" target="_blank"><img src="https://github.com/yDecide/.github/assets/148155226/4d98f45f-d538-43dc-8b99-fab3ec115a85" alt="yDecide - Logo"/></a>
+  <a href="https://ydecide.app" target="_blank">![yDecide Logo](https://github.com/yDecide/.github/assets/148155226/4a57284b-4afa-48ae-8e48-5a6b8e31feb2)</a>
 </p>
 
 ## Current Status
